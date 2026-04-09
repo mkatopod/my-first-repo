@@ -8,5 +8,7 @@ This repository demonstrates basic Git and Github workflows.
 #git commit -m '~Description here~'
 #git push
 
+#How to pull from Github
+
 
 This update was made on Github for demp purposes
